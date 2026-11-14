@@ -1,5 +1,7 @@
 # OpsDesk
 
+> An internal IT support assistant in .NET 10: Blazor chat, answers from documentation with citations (RAG over pgvector), tools served over MCP, and ticket creation that only happens after human approval. Built around a leakage-controlled evaluation suite. **Work in progress.**
+
 OpsDesk is an internal IT support assistant built with .NET. The project is designed to make its answers and actions inspectable: documentation citations show the source of an answer, a tool trace shows what the assistant called, and ticket creation requires a human approval step.
 
 ## What will make this project distinctive

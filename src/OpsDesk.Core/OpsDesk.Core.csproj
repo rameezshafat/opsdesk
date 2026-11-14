@@ -4,6 +4,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Description>OpsDesk core library: Markdown chunking by heading with overlap, citation metadata, and stable content keys for idempotent ingestion.</Description>
   </PropertyGroup>
 
 </Project>
