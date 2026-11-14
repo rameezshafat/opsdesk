@@ -2,4 +2,7 @@
   <Folder Name="/src/">
     <Project Path="src/OpsDesk.Core/OpsDesk.Core.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/OpsDesk.Core.Tests/OpsDesk.Core.Tests.csproj" />
+  </Folder>
 </Solution>

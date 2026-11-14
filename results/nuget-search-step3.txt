@@ -1,0 +1,8 @@
+$ dotnet package search xunit --exact-match --format json
+xunit 2.9.3
+$ dotnet package search xunit.runner.visualstudio --exact-match --format json
+xunit.runner.visualstudio 3.1.4
+$ dotnet package search Microsoft.NET.Test.Sdk --exact-match --format json
+Microsoft.NET.Test.Sdk 17.14.1
+$ dotnet package search coverlet.collector --exact-match --format json
+coverlet.collector 6.0.4
