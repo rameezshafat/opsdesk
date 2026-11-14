@@ -1,0 +1,9 @@
+$ dotnet test OpsDesk.slnx --nologo
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  OpsDesk.Core -> /Users/bitbase/workspace/github.com/rameezshafat/opsdesk/src/OpsDesk.Core/bin/Debug/net10.0/OpsDesk.Core.dll
+  OpsDesk.Core.Tests -> /Users/bitbase/workspace/github.com/rameezshafat/opsdesk/tests/OpsDesk.Core.Tests/bin/Debug/net10.0/OpsDesk.Core.Tests.dll
+Test run for /Users/bitbase/workspace/github.com/rameezshafat/opsdesk/tests/OpsDesk.Core.Tests/bin/Debug/net10.0/OpsDesk.Core.Tests.dll (.NETCoreApp,Version=v10.0)
+A total of 1 test files matched the specified pattern.
+
+Passed!  - Failed:     0, Passed:     9, Skipped:     0, Total:     9, Duration: 17 ms - OpsDesk.Core.Tests.dll (net10.0)

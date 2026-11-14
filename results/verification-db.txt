@@ -1,0 +1,8 @@
+$ docker compose up -d --wait postgres
+ Container opsdesk-postgres-1  Running
+ Container opsdesk-postgres-1  Waiting
+ Container opsdesk-postgres-1  Healthy
+$ docker compose exec -T postgres psql -U opsdesk -d opsdesk -Atc "SELECT extversion FROM pg_extension WHERE extname = vector"
+0.8.7
+$ docker compose exec -T postgres psql -U opsdesk -d opsdesk -Atc "SELECT vector distance"
+1.4142135623730951
