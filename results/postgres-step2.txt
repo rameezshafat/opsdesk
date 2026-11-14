@@ -1,0 +1,4 @@
+$ docker compose exec -T postgres psql -U opsdesk -d opsdesk -Atc "SELECT extname, extversion FROM pg_extension WHERE extname = vector"
+vector 0.8.7
+$ docker compose exec -T postgres psql -U opsdesk -d opsdesk -Atc "SELECT vector distance"
+1.4142135623730951
