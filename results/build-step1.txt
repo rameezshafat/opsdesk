@@ -1,0 +1,9 @@
+  Determining projects to restore...
+  Restored /Users/bitbase/workspace/github.com/rameezshafat/opsdesk/src/OpsDesk.Core/OpsDesk.Core.csproj (in 44 ms).
+  OpsDesk.Core -> /Users/bitbase/workspace/github.com/rameezshafat/opsdesk/src/OpsDesk.Core/bin/Debug/net10.0/OpsDesk.Core.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.87
